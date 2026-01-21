@@ -33,4 +33,4 @@ AI Product Builder, product-focused ML Engineer, or Technical PM for AI.
 Links
 Website: https://tanjaduro.com
 LinkedIn: https://www.linkedin.com/in/tduro
-Email: <your email>
+Email: <durotanja@gmail.com>
